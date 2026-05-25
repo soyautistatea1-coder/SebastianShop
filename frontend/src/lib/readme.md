@@ -1,0 +1,1 @@
+Aquí se guardan las conexiones/configuraciones de la API
